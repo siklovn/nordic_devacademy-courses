@@ -1495,6 +1495,10 @@ wifi_spi: &spi22 {};
 # 1 "/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l3/l3_e2/nrf54l15dk_nrf54l15_cpuapp_ns.overlay" 1
 &uart20 {
     current-speed = <9600>;
+    hw-flow-control;
+    data-bits = <8>;
+    stop-bits = "1";
+    parity = "none";
 };
 # 0 "<command-line>" 2
 # 1 "/opt/nordic/ncs/v3.1.0/zephyr/misc/empty_file.c"

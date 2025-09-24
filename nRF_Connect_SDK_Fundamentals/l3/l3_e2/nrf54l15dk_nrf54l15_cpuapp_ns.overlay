@@ -1,0 +1,7 @@
+&uart20 {
+    current-speed = <9600>;
+    hw-flow-control;
+    data-bits = <8>;
+    stop-bits = "1";
+    parity = "none";
+};

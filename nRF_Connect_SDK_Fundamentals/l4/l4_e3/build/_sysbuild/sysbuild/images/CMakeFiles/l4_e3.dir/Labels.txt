@@ -1,0 +1,13 @@
+# Target labels
+ l4_e3
+# Source files and their labels
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l4/l4_e3/build/_sysbuild/sysbuild/images/CMakeFiles/l4_e3
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l4/l4_e3/build/_sysbuild/sysbuild/images/CMakeFiles/l4_e3.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l4/l4_e3/build/_sysbuild/sysbuild/images/CMakeFiles/l4_e3-complete.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l4/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-build.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l4/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-configure.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l4/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-download.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l4/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-install.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l4/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-mkdir.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l4/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-patch.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l4/l4_e3/build/_sysbuild/sysbuild/images/l4_e3-prefix/src/l4_e3-stamp/l4_e3-update.rule

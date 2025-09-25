@@ -17,10 +17,13 @@ void thread0(void)
 	while (1) {
 		/* STEP 3 - Call printk() to display a simple string "Hello, I am thread0" */
 		printk("Hello, I am thread0\n");
+		
+		/* STEP 6 - Make the thread yield */
+		// k_yield();
+
+		/* STEP 10 - Put the thread to sleep */
 		k_msleep(5);
 
-		/* STEP 6 - Make the thread yield */
-		/* STEP 10 - Put the thread to sleep */
 		/* Remember to comment out the line from STEP 6 */
 	}
 }
@@ -30,10 +33,13 @@ void thread1(void)
 	while (1) {
 		/* STEP 3 - Call printk() to display a simple string "Hello, I am thread1" */
 		printk("Hello, I am thread1\n");
-		k_msleep(5);
 
 		/* STEP 8 - Make the thread yield */
+		// k_yield();
+
 		/* STEP 10 - Put the thread to sleep */
+		k_msleep(5);
+
 		/* Remember to comment out the line from STEP 8 */
 	}
 }

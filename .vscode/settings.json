@@ -1,5 +1,5 @@
 {
     "nrf-connect.applications": [
-        "${workspaceFolder}/nRF_Connect_SDK_Fundamentals/l6/l6_e2"
+        "${workspaceFolder}/nRF_Connect_SDK_Fundamentals/l7/l7_e1"
     ]
 }

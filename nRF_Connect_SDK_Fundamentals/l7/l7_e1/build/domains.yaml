@@ -1,0 +1,7 @@
+default: l7_e1
+build_dir: /Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l7/l7_e1/build
+domains:
+  - name: l7_e1
+    build_dir: /Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l7/l7_e1/build/l7_e1
+flash_order:
+  - l7_e1

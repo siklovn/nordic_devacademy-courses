@@ -1,0 +1,7 @@
+default: l8_e2
+build_dir: /Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l8/l8_e2/build
+domains:
+  - name: l8_e2
+    build_dir: /Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l8/l8_e2/build/l8_e2
+flash_order:
+  - l8_e2

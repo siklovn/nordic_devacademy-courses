@@ -1,0 +1,13 @@
+# Target labels
+ b0n
+# Source files and their labels
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l6/l6_e2/build/modules/nrf/CMakeFiles/b0n
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l6/l6_e2/build/modules/nrf/CMakeFiles/b0n.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l6/l6_e2/build/modules/nrf/CMakeFiles/b0n-complete.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l6/l6_e2/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-build.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l6/l6_e2/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-configure.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l6/l6_e2/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-download.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l6/l6_e2/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-install.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l6/l6_e2/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-mkdir.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l6/l6_e2/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-patch.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l6/l6_e2/build/modules/nrf/b0n-prefix/src/b0n-stamp/b0n-update.rule

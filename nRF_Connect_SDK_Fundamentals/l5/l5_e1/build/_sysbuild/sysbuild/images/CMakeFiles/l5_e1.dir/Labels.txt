@@ -1,0 +1,13 @@
+# Target labels
+ l5_e1
+# Source files and their labels
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l5/l5_e1/build/_sysbuild/sysbuild/images/CMakeFiles/l5_e1
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l5/l5_e1/build/_sysbuild/sysbuild/images/CMakeFiles/l5_e1.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l5/l5_e1/build/_sysbuild/sysbuild/images/CMakeFiles/l5_e1-complete.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l5/l5_e1/build/_sysbuild/sysbuild/images/l5_e1-prefix/src/l5_e1-stamp/l5_e1-build.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l5/l5_e1/build/_sysbuild/sysbuild/images/l5_e1-prefix/src/l5_e1-stamp/l5_e1-configure.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l5/l5_e1/build/_sysbuild/sysbuild/images/l5_e1-prefix/src/l5_e1-stamp/l5_e1-download.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l5/l5_e1/build/_sysbuild/sysbuild/images/l5_e1-prefix/src/l5_e1-stamp/l5_e1-install.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l5/l5_e1/build/_sysbuild/sysbuild/images/l5_e1-prefix/src/l5_e1-stamp/l5_e1-mkdir.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l5/l5_e1/build/_sysbuild/sysbuild/images/l5_e1-prefix/src/l5_e1-stamp/l5_e1-patch.rule
+/Users/simonklovning/Documents/GitHub/Nordic_DevAcademy_Courses/nRF_Connect_SDK_Fundamentals/l5/l5_e1/build/_sysbuild/sysbuild/images/l5_e1-prefix/src/l5_e1-stamp/l5_e1-update.rule
